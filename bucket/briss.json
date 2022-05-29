@@ -5,6 +5,7 @@
     "license": "GPL-3.0-only",
     "notes": "need Java Runtime.",
     "url": "https://onboardcloud.dl.sourceforge.net/project/briss/release%200.9/briss-0.9.zip",
+    "extract_dir": "briss-0.9"
     "hash": "32c0e73b90efcbe0d7264410f822bc8721354ab5d49b7c159ba067531852a9b0",
     "bin": "briss-0.9.exe",
     "shortcuts": [
